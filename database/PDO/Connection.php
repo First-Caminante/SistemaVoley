@@ -33,7 +33,7 @@ class Connection
   private function conectarpdo()
   {
     $server = "localhost";
-    $db = "voleibol";
+    $db = "voleibol2";
     $user = "root";
     $password = "caminante";
 
